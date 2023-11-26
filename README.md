@@ -17,3 +17,8 @@ At OSUAI, we believe in making high-quality educational content accessible to ev
 5. **Open Source:** All the content in this repository is open source and free to use. You can contribute to the repository, suggest improvements, or create your own educational content to help others on their data science journey.
 
 We're excited to have you as part of the OSUAI community. Start your data science journey today by exploring the resources in this repository. Remember, the key to mastering data science is practice and continuous learning. Let's embark on this exciting journey together!
+
+# Introduction to Python
+
+
+
