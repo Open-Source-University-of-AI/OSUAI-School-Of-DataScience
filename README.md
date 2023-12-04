@@ -31,3 +31,12 @@ Welcome to the **School of Data Science** repository of the Open Source Universi
 | 3.   | Probability                 | [Probability and Statistics]()                                                                                        |
 
 ---
+
+<h1 align='center'>Data Science Podcasts</h1> 
+
+| No.  | Name                 | Free Resources                                                                                                        |
+|-----:|-----------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| 1.   | Linear Digression              | [Google podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS91ZGFjaXR5LWxpbmVhci1kaWdyZXNzaW9ucw?sa=X&ved=0CAMQ4aUDahgKEwiY1PCYg_WCAxUAAAAAHQAAAAAQpwo)         |
+
+
+
