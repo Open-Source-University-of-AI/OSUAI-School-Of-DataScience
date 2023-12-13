@@ -19,7 +19,8 @@ Welcome to the **School of Data Science** repository of the Open Source Universi
 | 3.  | Data Visualization free book       | [Data Visualization](https://clauswilke.com/dataviz/)                                           |
 | 4.  | Machine Learning                   | [Stanford Machine Learning course](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) |
 | 5.  | Deep Learning                      | [PART-1: Practical Deep learning for coders](https://www.youtube.com/watch?v=8SF_h3xF3cE&list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU) |
-|     |                                    | [PART-2: Practical Deep learning for coders Foundations of neural network to Stable diffusion](https://www.youtube.com/watch?v=_7rMfsA24Ls&list=PLfYUBJiXbdtRUvTUYpLdfHHp9a58nWVXP) |
+| 6.  |                                    | [PART-2: Practical Deep learning for coders Foundations of neural network to Stable diffusion](https://www.youtube.com/watch?v=_7rMfsA24Ls&list=PLfYUBJiXbdtRUvTUYpLdfHHp9a58nWVXP) |
+| 7.  | Machine Learning Systems with Tiny AI | [ ML systems with Tiny AI](https://harvard-edge.github.io/cs249r_book/) |
 ---
 
 <h1 align='center'>Mathematics</h1> 
