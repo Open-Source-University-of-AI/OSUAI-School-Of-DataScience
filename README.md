@@ -39,5 +39,38 @@ Welcome to the **School of Data Science** repository of the Open Source Universi
 |-----:|-----------------------------|-----------------------------------------------------------------------------------------------------------------------|
 | 1.   | Linear Digression              | [Google podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS91ZGFjaXR5LWxpbmVhci1kaWdyZXNzaW9ucw?sa=X&ved=0CAMQ4aUDahgKEwiY1PCYg_WCAxUAAAAAHQAAAAAQpwo)         |
 
+<h1 align='center'>Open Source Orgnizations</h1> 
+
+| Organization Name                                   | Description                                                |
+| ---------------------------------------------------- | ---------------------------------------------------------- |
+| **MDAnalysis**                                       | Analysis of molecular simulations data with Python.         |
+| **Jina AI**                                          | Multimodal AI from the community, for everyone.             |
+| **Ivy (lets-unify.ai)**                              | All of AI, at your fingertips.                              |
+| **Genome Assembly and Annotation**                   | Providing freely accessible genomic data.                  |
+| **caMicroscope**                                     | Toolkit for cancer imaging research.                        |
+| **OpenCV**                                           | ++ beneficial uses of computer vision in society.           |
+| **CloudCV**                                          | Building platforms for reproducible AI research.            |
+| **OpenStreetMap**                                    | Create and distribute free geodata for the world.          |
+| **Internet Health Report**                           | Monitoring the Internet.                                    |
+| **Machine Learning for Science (ML4SCI)**             | Machine learning applications in science.                   |
+| **NumFOCUS**                                         | NumFOCUS promotes open source scientific software.          |
+| **Qdrant**                                           | Vector Search Database for the new AI generation.           |
+| **Red Hen Lab**                                      | Research on Multimodal Communication.                       |
+| **Stratosphere Laboratory, Czech Technical University in Prague** | Using machine learning and security to help others.  |
+| **PostgreSQL**                                       | The Most Advanced Open Source Relational Database.          |
+| **Mathesar**                                         | Webapp providing a UX-first interface to databases.         |
+| **Mayor's Office of New Urban Mechanics**            | Exploring new approaches to civic life.                     |
+| **LibreHealth**                                      | Healthcare for Humanity.                                    |
+| **Open Genome Informatics**                          | Open access genomics and bioinformatics projects.           |
+| **UC OSPO**                                          | Amplifying Research Impact through Open Source.             |
+| **Society for Arts and Technology (SAT)**            | Create teleimmersive multisensorial experiences.            |
+| **DBpedia**                                          | Global and Unified Access to Knowledge Graphs.              |
+| **MariaDB**                                          | The fastest growing Open Source Database.                   |
+| **Ceph**                                             | The Future of Storage.                                      |
+| **MetaBrainz Foundation Inc**                        | Open music/book metadata, music recommendations.            |
+| **Liquid Galaxy project**                             | We code immersive and interactive apps with Google Earth.   |
+| **TensorFlow**                                       | TensorFlow is a ML framework for everyone.                  |
+| **The Julia Language**                                | A fresh approach to technical computing.                    |
+| **mlpack**                                           | A fast, flexible machine learning library.                  |
 
 
