@@ -17,6 +17,7 @@ Welcome to the **School of Data Science** repository of the Open Source Universi
 | 6.   | Linear Algebra MIT 18.06                   | [MIT OCW](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)  |
 | 7.   | Linear Algebra Khan Academy                | [Sal Khan](https://www.khanacademy.org/math/linear-algebra)  |
 | 8.   | Mathematics for Machine Learning and Data Science | [Coursera, Deeplearning.ai](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science) |
+| 9.   | Math for Machine Learning                  | [Weights & Biases](https://www.youtube.com/watch?v=uZeDTwWcnuY&list=PLD80i8An1OEGZ2tYimemzwC3xqkU0jKUg)
 
 
 
