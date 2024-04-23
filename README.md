@@ -5,6 +5,21 @@ Disclaimer: This repository is under construction
 ```
 Welcome to the **School of Data Science** repository of the Open Source University of AI (OSUAI). 
 
+<h1 align='center'>Mathematics</h1> 
+
+| No.  | Category                                   | Free Resources                                                                                                        |
+|-----:|--------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| 1.   | Computational Linear Algebra               | [Linear Algebra Course](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)          |
+| 2.   | Essence of Linear ALgebra                  | [3Blue1Brown](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)                |
+| 3.   | Probability and Statistics                 | [Khan Academy](https://www.khanacademy.org/math/statistics-probability)                                                                                     |
+| 4.   | Mathematics for Machine Learning           | [Imperial College London, Coursera](https://www.coursera.org/learn/multivariate-calculus-machine-learning?)
+| 5.   | Mathematics for Machine Learning           | [Book](https://mml-book.github.io/)  |
+| 6.   | Linear Algebra MIT 18.06                   | [MIT OCW](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)  |
+| 7.   | Linear Algebra Khan Academy                | [Sal Khan](https://www.khanacademy.org/math/linear-algebra)  |
+| 8.   | Mathematics for Machine Learning and Data Science | [Coursera, Deeplearning.ai](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science) |
+
+
+
 ---
 1. ### Introduction to Python
 - [ ] Charles Babbage Episode
@@ -21,16 +36,6 @@ Welcome to the **School of Data Science** repository of the Open Source Universi
 | 5.  | Deep Learning                      | [PART-1: Practical Deep learning for coders](https://www.youtube.com/watch?v=8SF_h3xF3cE&list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU) |
 | 6.  |                                    | [PART-2: Practical Deep learning for coders Foundations of neural network to Stable diffusion](https://www.youtube.com/watch?v=_7rMfsA24Ls&list=PLfYUBJiXbdtRUvTUYpLdfHHp9a58nWVXP) |
 | 7.  | Machine Learning Systems with Tiny ML | [ ML systems with Tiny ML](https://harvard-edge.github.io/cs249r_book/) |
----
-
-<h1 align='center'>Mathematics</h1> 
-
-| No.  | Category                    | Free Resources                                                                                                        |
-|-----:|-----------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| 1.   | Linear Algebra              | [Linear Algebra Course](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)          |
-| 2.   | Calculus                    | [Calculus Course](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)                |
-| 3.   | Probability                 | [Probability and Statistics]()                                                                                        |
-
 ---
 
 <h1 align='center'>Data Science Podcasts</h1> 
