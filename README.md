@@ -18,7 +18,8 @@ Welcome to the **School of Data Science** repository of the Open Source Universi
 | 7.   | Linear Algebra Khan Academy                | [Sal Khan](https://www.khanacademy.org/math/linear-algebra)  |
 | 8.   | Mathematics for Machine Learning and Data Science | [Coursera, Deeplearning.ai](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science) |
 | 9.   | Math for Machine Learning                  | [Weights & Biases](https://www.youtube.com/watch?v=uZeDTwWcnuY&list=PLD80i8An1OEGZ2tYimemzwC3xqkU0jKUg)
-
+| 10.  | Statistics Fundamentals                    | [Statsquest](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)   |
+| 11.  | The matrix calculus you need for deeplearning | [Paper](https://arxiv.org/pdf/1802.01528.pdf)  |
 
 
 ---
